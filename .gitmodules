@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "levelSets"]
+	path = levelSets
+	url = https://github.com/cran/levelSets
 [submodule "tablesgg"]
 	path = tablesgg
 	url = https://github.com/rrprf/tablesgg
